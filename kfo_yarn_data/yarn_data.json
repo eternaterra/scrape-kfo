@@ -1,0 +1,839 @@
+[
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-snowflake",
+    "name": "Knitting for Olive Merino - Snowflake",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Snefnug.jpg?v=1760081088&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Snowflake.jpg",
+    "hex_color": "#deddd4"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-cream",
+    "name": "Knitting for Olive Merino - Cream",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_flode_0767.jpg?v=1713337628&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Cream.jpg",
+    "hex_color": "#d3cfc9"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-cloud",
+    "name": "Knitting for Olive Merino - Cloud",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Sky_f0d5e65c-4fcb-44af-ba62-e6ca7db7b415.jpg?v=1760081223&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Cloud.jpg",
+    "hex_color": "#d9d3cf"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-kalksten-limestone",
+    "name": "Knitting for Olive Merino - Limestone",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Limestone_1.jpg?v=1715712797&width=2000",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Limestone.jpg",
+    "hex_color": "#d5d3ce"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-ufarvet-undyed",
+    "name": "Knitting for Olive Merino - Undyed",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Undyed_1.jpg?v=1724225730&width=2000",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Undyed.jpg",
+    "hex_color": "#dbd3c6"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-wheat",
+    "name": "Knitting for Olive Merino - Wheat",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_hvede_0654.jpg?v=1713337833&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Wheat.jpg",
+    "hex_color": "#d1c4b1"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-marzipan",
+    "name": "Knitting for Olive Merino - Marzipan",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/products/Knitting_for_olive_merino_marcipan_6443_5594cc10-949b-4e84-b36f-d4f1e3758746.jpg?v=1608632860&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Marzipan.jpg",
+    "hex_color": "#cec7bd"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-oatmeal",
+    "name": "Knitting for Olive Merino - Oatmeal",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Havregryn.jpg?v=1760081867&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Oatmeal.jpg",
+    "hex_color": "#c6beb3"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-hor-linen",
+    "name": "Knitting for Olive Merino - Linen",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Hor.jpg?v=1768569625&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Linen.jpg",
+    "hex_color": "#b1aaa5"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-cardamom-kardemomme-rws",
+    "name": "Knitting for Olive Merino - Cardamom",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Kardemomme.jpg?v=1760082067&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Cardamom.jpg",
+    "hex_color": "#9e958c"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-moose",
+    "name": "Knitting for Olive Merino - Dusty Moose",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_StovetElg.jpg?v=1760082461&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Moose.jpg",
+    "hex_color": "#9a9694"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-pearl-gray",
+    "name": "Knitting for Olive Merino - Pearl Gray",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Perlegra.jpg?v=1760082311&width=2000",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Pearl_Gray.jpg",
+    "hex_color": "#bfbcba"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-morgendis-morning-haze",
+    "name": "Knitting for Olive Merino - Morning Haze",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_morgendis_0763.jpg?v=1713341262&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Morning_Haze.jpg",
+    "hex_color": "#b6b5b0"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-regnvejrsdag-rainy-day",
+    "name": "Knitting for Olive Merino - Rainy Day",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_regnvejrsdag_0689.jpg?v=1713343443&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Rainy_Day.jpg",
+    "hex_color": "#9d9c9c"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-tordensky-thunder-cloud",
+    "name": "Knitting for Olive Merino - Thunder Cloud",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Tordensky.jpg?v=1760082493&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Thunder_Cloud.jpg",
+    "hex_color": "#7f7f80"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-midnight",
+    "name": "Knitting for Olive Merino - Midnight",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Midnat.jpg?v=1763561632&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Midnight.jpg",
+    "hex_color": "#71747c"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-licorice",
+    "name": "Knitting for Olive Merino - Licorice",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/products/Knitting_for_olive_merino_lakrids_5424.jpg?v=1608632880&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Licorice.jpg",
+    "hex_color": "#646667"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-brown-bear",
+    "name": "Knitting for Olive Merino - Brown Bear",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_brunbjorn_0743.jpg?v=1713335913&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Brown_Bear.jpg",
+    "hex_color": "#726e6c"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dark-moose",
+    "name": "Knitting for Olive Merino - Dark Moose",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_MorkElg.jpg?v=1760081523&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dark_Moose.jpg",
+    "hex_color": "#6e6a69"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-hazel",
+    "name": "Knitting for Olive Merino - Hazel",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Hasselnod_94b4337f-4892-4ec9-af8b-36be2d92b887.jpg?v=1761918689&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Hazel.jpg",
+    "hex_color": "#958c88"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-bark",
+    "name": "Knitting for Olive Merino - Bark",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Bark.jpg?v=1760081494&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Bark.jpg",
+    "hex_color": "#8f837b"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-trenchcoat",
+    "name": "Knitting for Olive Merino - Trenchcoat",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Trenchcoat.jpg?v=1760082555&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Trenchcoat.jpg",
+    "hex_color": "#afa498"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-camel",
+    "name": "Knitting for Olive Merino - Camel",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Kamel.jpg?v=1760082308&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Camel.jpg",
+    "hex_color": "#b19d8d"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-nut-brown",
+    "name": "Knitting for Olive Merino - Nut Brown",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Noddebrun.jpg?v=1760082383&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Nut_Brown.jpg",
+    "hex_color": "#988678"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-soft-cognac",
+    "name": "Knitting for Olive Merino - Soft Cognac",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_LysCognac.jpg?v=1760082311&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Soft_Cognac.jpg",
+    "hex_color": "#927c71"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dark-cognac",
+    "name": "Knitting for Olive Merino - Dark Cognac",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_MorkCognac.jpg?v=1760082356&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dark_Cognac.jpg",
+    "hex_color": "#83746e"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-ocher-brown",
+    "name": "Knitting for Olive Merino - Ocher Brown",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Okkerbrun.jpg?v=1760082424&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Ocher_Brown.jpg",
+    "hex_color": "#877366"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-brown-nougat",
+    "name": "Knitting for Olive Merino - Brown Nougat",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_BlodNougat_934e7a8d-c85f-4005-a219-fe516be924bc.jpg?v=1761210746&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Brown_Nougat.jpg",
+    "hex_color": "#aa9189"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-copper",
+    "name": "Knitting for Olive Merino - Copper",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Kobber_606954de-fe92-406d-9194-c0c3ec3ee87b.jpg?v=1763643718&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Copper.jpg",
+    "hex_color": "#ac8175"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olives-merino-rust",
+    "name": "Knitting for Olive Merino - Rust",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Rust_8f58e589-e826-4848-91a2-b45ec55bc1d7.jpg?v=1761211163&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Rust.jpg",
+    "hex_color": "#98746f"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-burnt-orange",
+    "name": "Knitting for Olive Merino - Burnt Orange",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_BraendtOrange.jpg?v=1760093514&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Burnt_Orange.jpg",
+    "hex_color": "#a67065"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-hokkaido",
+    "name": "Knitting for Olive Merino - Hokkaido",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Hokkaido.jpg?v=1760081984&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Hokkaido.jpg",
+    "hex_color": "#cb7865"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-blood-orange",
+    "name": "Knitting for Olive Merino - Blood Orange",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Blodappelsin.jpg?v=1760081629&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Blood_Orange.jpg",
+    "hex_color": "#d16c64"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-robin",
+    "name": "Knitting for Olive Merino - Robin",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_merino_rodkaelk_5341.jpg?v=1713349254&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Robin.jpg",
+    "hex_color": "#b46c64"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-pomegranate",
+    "name": "Knitting for Olive Merino - Pomegranate",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/products/Knitting_for_olive_merino_granataeble_5410.jpg?v=1608636424&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Pomegranate.jpg",
+    "hex_color": "#ac5f5e"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-ribsrod-red-currant",
+    "name": "Knitting for Olive Merino - Red Currant",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Ribsrod_76e931ff-9500-48d0-b823-0501b8facd3f.jpg?v=1761211475&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Red_Currant.jpg",
+    "hex_color": "#b56068"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-raspberry-red-hindbaerrod-rws",
+    "name": "Knitting for Olive Merino - Raspberry Red",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Hindbaerrod.jpg?v=1765894572&width=1832",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Raspberry_Red.jpg",
+    "hex_color": "#b96e81"
+  },
+  {
+    "url": "https://knittingforolive.com/products/copy-of-knitting-for-olive-merino-blue-tit",
+    "name": "Knitting for Olive Merino - Pink Daisies",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Bellispink.jpg?v=1760093663&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Pink_Daisies.jpg",
+    "hex_color": "#ca5c84"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-watermelon-vandmelon-rws",
+    "name": "Knitting for Olive Merino - Watermelon",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Vandmelon_5b117418-ebd3-4d93-a939-4f6bcec35edd.jpg?v=1765894430&width=1748",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Watermelon.jpg",
+    "hex_color": "#d39095"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-flamingo",
+    "name": "Knitting for Olive Merino - Flamingo",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/products/Knitting_for_olive_merino_flamingo_5394.jpg?v=1608631745&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Flamingo.jpg",
+    "hex_color": "#d69e96"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-poppy-rose",
+    "name": "Knitting for Olive Merino - Poppy Rose",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Valmuerosa_2b114c78-53ca-4bab-9db8-7315fc62d495.jpg?v=1761212022&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Poppy_Rose.jpg",
+    "hex_color": "#ddb5b3"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-cherryblossom",
+    "name": "Knitting for Olive Merino - Cherry Blossom",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Kirsebaerblomst_9a4a2556-742b-4366-b3aa-f014a043652e.jpg?v=1761212428&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Cherry_Blossom.jpg",
+    "hex_color": "#e0c5c3"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-ballerina",
+    "name": "Knitting for Olive Merino - Ballerina",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Ballerina_2c0795fa-dc59-4de0-9991-df3ae52cdf83.jpg?v=1760081455&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Ballerina.jpg",
+    "hex_color": "#cfc1bf"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-soft-rose",
+    "name": "Knitting for Olive Merino - Soft Rose",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Pudderrosa_c660406c-e417-4624-bcce-5d1fc5a9bf73.jpg?v=1761213306&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Soft_Rose.jpg",
+    "hex_color": "#d4c5c2"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-powder",
+    "name": "Knitting for Olive Merino - Powder",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Pudder.jpg?v=1760094113&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Powder.jpg",
+    "hex_color": "#c6bbb3"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-soft-peach",
+    "name": "Knitting for Olive Merino - Soft Peach",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_blidfersken_0729.jpg?v=1713335312&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Soft_Peach.jpg",
+    "hex_color": "#d3bdab"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-camel-rose",
+    "name": "Knitting for Olive Merino - Camel Rose",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_RosaKamel.jpg?v=1761213883&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Camel_Rose.jpg",
+    "hex_color": "#c7afa5"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-mushroom-rose",
+    "name": "Knitting for Olive Merino - Mushroom Rose",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/products/Knitting_for_olive_merino_champignonrosa_5380.jpg?v=1608632920&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Mushroom_Rose.jpg",
+    "hex_color": "#bdab9c"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-rose-clay",
+    "name": "Knitting for Olive Merino - Rose Clay",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_RosaLer.jpg?v=1760094194&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Rose_Clay.jpg",
+    "hex_color": "#b6a19c"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-rose",
+    "name": "Knitting for Olive Merino - Dusty Rose",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Gammelrosa.jpg?v=1761214453&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Rose.jpg",
+    "hex_color": "#b9a1a2"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-wild-berries",
+    "name": "Knitting for Olive Merino - Wild Berries",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_VildeBaer.jpg?v=1760094515&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Wild_Berries.jpg",
+    "hex_color": "#b48689"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-plum-rose",
+    "name": "Knitting for Olive Merino - Plum Rose",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Blommerosa.jpg?v=1761214130&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Plum_Rose.jpg",
+    "hex_color": "#a9827e"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-claret",
+    "name": "Knitting for Olive Merino - Claret",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Vinrod.jpg?v=1760093743&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Claret.jpg",
+    "hex_color": "#967072"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-bordeaux",
+    "name": "Knitting for Olive Merino - Bordeaux",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Bordeaux.jpg?v=1760093866&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Bordeaux.jpg",
+    "hex_color": "#796066"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-artichoke-purple",
+    "name": "Knitting for Olive Merino - Artichoke Purple",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_artiskoklilla_0711.jpg?v=1713334552&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Artichoke_Purple.jpg",
+    "hex_color": "#ad98a1"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-unicorn-purple",
+    "name": "Knitting for Olive Merino - Unicorn Purple",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_enhjorninglilla_0718.jpg?v=1713337261&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Unicorn_Purple.jpg",
+    "hex_color": "#c8c1cb"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-violette",
+    "name": "Knitting for Olive Merino - Dusty Violette",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_StovetViol.jpg?v=1760094460&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Violette.jpg",
+    "hex_color": "#83828a"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-plum-clay",
+    "name": "Knitting for Olive Merino - Plum Clay",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Blomme-ler.jpg?v=1760093695&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Plum_Clay.jpg",
+    "hex_color": "#867d7e"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-plum-blomme-rws",
+    "name": "Knitting for Olive Merino - Plum",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Blomme.jpg?v=1763565156&width=4797",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Plum.jpg",
+    "hex_color": "#716377"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-french-anemone-fransk-anemone-rws",
+    "name": "Knitting for Olive Merino - French Anemone",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_FranskAnemone.jpg?v=1763564522&width=4702",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_French_Anemone.jpg",
+    "hex_color": "#6d6b85"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-lavendelbla-lavender-blue",
+    "name": "Knitting for Olive Merino - Lavender Blue",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_lavendelbla_0761.jpg?v=1712749993&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Lavender_Blue.jpg",
+    "hex_color": "#94a3ca"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-navy-blue",
+    "name": "Knitting for Olive Merino - Navy Blue",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/products/Knitting_for_olive_merino_marinebla_5400.jpg?v=1608633208&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Navy_Blue.jpg",
+    "hex_color": "#5a5f6b"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-blue-whale",
+    "name": "Knitting for Olive Merino - Blue Whale",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Blahval.jpg?v=1760093789&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Blue_Whale.jpg",
+    "hex_color": "#767a85"
+  },
+  {
+    "url": "https://knittingforolive.com/products/copy-of-knitting-for-olive-merino-wheat",
+    "name": "Knitting for Olive Merino - Blue Jeans",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_BlaJeans.jpg?v=1760093824&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Blue_Jeans.jpg",
+    "hex_color": "#757e89"
+  },
+  {
+    "url": "https://knittingforolive.com/products/copy-of-knitting-for-olive-merino-blue-jeans",
+    "name": "Knitting for Olive Merino - Blue Tit",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_blamejse_0714.jpg?v=1713335229&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Blue_Tit.jpg",
+    "hex_color": "#5a758d"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-poppy-blue",
+    "name": "Knitting for Olive Merino - Poppy Blue",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_valmuebla_0748.jpg?v=1713347089&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Poppy_Blue.jpg",
+    "hex_color": "#70a5cb"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-ice-blue",
+    "name": "Knitting for Olive Merino - Ice Blue",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_isbla_0673.jpg?v=1713338175&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Ice_Blue.jpg",
+    "hex_color": "#c2cbd3"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-soft-blue",
+    "name": "Knitting for Olive Merino - Soft Blue",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/products/Knitting_for_olive_merino_pudderbla_5328.jpg?v=1608638030&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Soft_Blue.jpg",
+    "hex_color": "#b0b5b6"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-dove-blue",
+    "name": "Knitting for Olive Merino - Dusty Dove Blue",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_StovetDuebla.jpg?v=1760094349&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Dove_Blue.jpg",
+    "hex_color": "#909ca5"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-petroleum-blue",
+    "name": "Knitting for Olive Merino - Dusty Petroleum Blue",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_StovetPetroleumsbla.jpg?v=1760094391&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Petroleum_Blue.jpg",
+    "hex_color": "#889197"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-deep-petroleum-blue",
+    "name": "Knitting for Olive Merino - Deep Petroleum Blue",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_DybPetroleumsbla.jpg?v=1760093910&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Deep_Petroleum_Blue.jpg",
+    "hex_color": "#656c72"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-petroleum-green",
+    "name": "Knitting for Olive Merino - Petroleum Green",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Petroleumsgron.jpg?v=1760094078&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Petroleum_Green.jpg",
+    "hex_color": "#637c81"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-aqua",
+    "name": "Knitting for Olive Merino - Dusty Aqua",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_StovetAqua.jpg?v=1760094243&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Aqua.jpg",
+    "hex_color": "#97a3a1"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-eucalyptus-eukalyptus-rws",
+    "name": "Knitting for Olive Merino -  Eucalyptus",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_-_Eucalyptus_1.jpg?v=1748862234&width=2048",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-__Eucalyptus.jpg",
+    "hex_color": "#9ba29a"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-artichoke",
+    "name": "Knitting for Olive Merino - Dusty Artichoke",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_StovetArtiskok.jpg?v=1760094278&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Artichoke.jpg",
+    "hex_color": "#a5ada1"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-pea-shoots",
+    "name": "Knitting for Olive Merino - Pea Shoots",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_AErteskud.jpg?v=1760094431&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Pea_Shoots.jpg",
+    "hex_color": "#98a47a"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-clover-green",
+    "name": "Knitting for Olive Merino - Clover Green",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_klovergron_0730.jpg?v=1713340066&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Clover_Green.jpg",
+    "hex_color": "#7d9c79"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-bottle-green",
+    "name": "Knitting for Olive Merino - Bottle Green",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Flaskegron.jpg?v=1760093954&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Bottle_Green.jpg",
+    "hex_color": "#616863"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-slate-green",
+    "name": "Knitting for Olive Merino - Slate Green",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Skifergron.jpg?v=1763562303&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Slate_Green.jpg",
+    "hex_color": "#676a66"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-sea-green",
+    "name": "Knitting for Olive Merino - Dusty Sea Green",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_merino_stovetsogron_5351.jpg?v=1713356976&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Sea_Green.jpg",
+    "hex_color": "#88897c"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-olive",
+    "name": "Knitting for Olive Merino - Dusty Olive",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/products/Knitting_for_olive_merino_stovetoliven_5330.jpg?v=1608631242&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Olive.jpg",
+    "hex_color": "#8d8877"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-green-ocher-okkergron-rws",
+    "name": "Knitting for Olive Merino - Green Ocher",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Okkergron_79ba4ae9-3f20-4777-91e8-e902c89d71e2.jpg?v=1765894386&width=1716",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Green_Ocher.jpg",
+    "hex_color": "#948c7e"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-green-woodpecker-gronspaette-rws",
+    "name": "Knitting for Olive Merino - Green Woodpecker",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Gronspaette_1e53a7c9-ddef-44d3-8fb0-bbc3dc05c8e2.jpg?v=1765894497&width=1707",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Green_Woodpecker.jpg",
+    "hex_color": "#b5a97d"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-fennel-seed",
+    "name": "Knitting for Olive Merino - Fennel Seed",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Fennikelfro.jpg?v=1763563618&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Fennel_Seed.jpg",
+    "hex_color": "#b9b4a0"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-lemon-grass-citrongraes-rws",
+    "name": "Knitting for Olive Merino - Lemongrass",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Citrongraes.jpg?v=1765894461&width=1735",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Lemongrass.jpg",
+    "hex_color": "#cbcda9"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-elderflower",
+    "name": "Knitting for Olive Merino - Elderflower",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Knitting_for_olive_marts_2024_merino_hyldeblomst_0650.jpg?v=1713338031&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Elderflower.jpg",
+    "hex_color": "#d3cfc0"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-banana",
+    "name": "Knitting for Olive Merino - Dusty Banana",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_StovetBanan_a90e4ba2-c3e0-4cb4-a1b3-69a5c8ace116.jpg?v=1763643451&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Banana.jpg",
+    "hex_color": "#cec4ae"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-quince",
+    "name": "Knitting for Olive Merino - Quince",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Kvaede.jpg?v=1760094028&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Quince.jpg",
+    "hex_color": "#bdb375"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-umami-yellow-umamigul-rws",
+    "name": "Knitting for Olive Merino - Umami Yellow",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Umamigul_62fa88b9-c41f-43c0-8c9d-93d9d72746b3.jpg?v=1768564614&width=1920",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Umami_Yellow.jpg",
+    "hex_color": "#d4c352"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-buttercup-smorblomst-rws",
+    "name": "Knitting for Olive Merino - Buttercup",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino-Buttercup.jpg?v=1757069583&width=4736",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Buttercup.jpg",
+    "hex_color": "#d1bd84"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dusty-honey",
+    "name": "Knitting for Olive Merino - Dusty Honey",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_StovetHonning.jpg?v=1763562606&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dusty_Honey.jpg",
+    "hex_color": "#bba37f"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-mustard",
+    "name": "Knitting for Olive Merino - Mustard",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/files/Merino_Sennep.jpg?v=1763562918&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Mustard.jpg",
+    "hex_color": "#b29361"
+  },
+  {
+    "url": "https://knittingforolive.com/products/knitting-for-olive-merino-dark-ocher",
+    "name": "Knitting for Olive Merino - Dark Ocher",
+    "color": null,
+    "image_url": "https://knittingforolive.com/cdn/shop/products/Knitting_for_olive_merino_morkokker_5303.jpg?v=1608630786&width=1600",
+    "price": null,
+    "local_image_path": "./kfo_yarn_data/images/Knitting_for_Olive_Merino_-_Dark_Ocher.jpg",
+    "hex_color": "#9c7f59"
+  }
+]
